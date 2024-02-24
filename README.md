@@ -19,6 +19,7 @@ function getBuffer() {
     return buffer;
   })(data);
 }
+```
 ---
 
 Обеспечено покрытие тестами.
