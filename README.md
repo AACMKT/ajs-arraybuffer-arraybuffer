@@ -1,6 +1,6 @@
 # Converting data from ArrayBuffer to string
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/krgxo347d2mtaw1g?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-containers-map)
+[![Build status](https://ci.appveyor.com/api/projects/status/7306t2g7kk417mhc?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-arraybuffer-arraybuffer)
 
 ### Описание
 
